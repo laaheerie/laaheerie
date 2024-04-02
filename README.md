@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm P.Laaheerie</h1>
+<h1 align="center">Hi 👋, I'm Laaheerie.p</h1>
 <h3 align="center">A passionate Front-End Development</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
  
@@ -14,8 +14,6 @@
 - 💬 Ask me about **Front-End, MySQL, Literature and Technology**
 
 - 📫 How to reach me **laaheerie07@gmail.com**
-
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1mQZeC05ZNBAE2_wfi5DpyAihCklgI44D/view?usp=sharing)
 
 - ⚡ Fun fact **I'm a Book Enthusiast and a Foodie**
 
